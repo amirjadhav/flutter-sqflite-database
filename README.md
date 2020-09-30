@@ -5,6 +5,7 @@ A flutter project with sqflite plugin to manage database locally.
 ## Find All Operation
 <p align="center">
   <img src="https://github.com/amirjadhav/flutter-sqflite-database/blob/master/screenshot/findall.png" width="350" title="Delete Rows">
+   Find with query Operation
   <img src="https://github.com/amirjadhav/flutter-sqflite-database/blob/master/screenshot/queryspecific.png" width="350" title="Delete Rows">
 </p>
 
