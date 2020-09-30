@@ -10,7 +10,7 @@ A flutter project with sqflite plugin to manage database locally.
 
 ## Find with query Operation
 <p align="center">
-  <img src="https://github.com/amirjadhav/flutter-sqflite-database/blob/master/screenshot/findone.png" width="350" title="Delete Rows">
+  <img src="https://github.com/amirjadhav/flutter-sqflite-database/blob/master/screenshot/queryspecific.png" width="350" title="Delete Rows">
 </p>
 
 ## insert Operation
