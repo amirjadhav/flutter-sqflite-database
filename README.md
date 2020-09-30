@@ -13,8 +13,8 @@ A flutter project with sqflite plugin to manage database locally.
 ## Insert and Update Operation
 <p align="center">
   <img src="https://github.com/amirjadhav/flutter-sqflite-database/blob/master/screenshot/insert.png" width="350" title="Delete Rows">
-   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/amirjadhav/flutter-sqflite-database/blob/master/screenshot/update.png" width="350" title="Delete Rows">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  
+ <img src="https://github.com/amirjadhav/flutter-sqflite-database/blob/master/screenshot/update.png" width="350" title="Delete Rows">
 </p>
 
 ## Delete Operation
