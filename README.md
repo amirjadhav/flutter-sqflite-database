@@ -4,7 +4,7 @@ A flutter project with sqflite plugin to manage database locally.
 
 ## Find All and find with specefic query
 <p align="center">
-  <img style=”display:block” src="https://github.com/amirjadhav/flutter-sqflite-database/blob/master/screenshot/findall.png" width="350" title="Delete Rows">
+  <img style=”display:block;padding-right: 6em” src="https://github.com/amirjadhav/flutter-sqflite-database/blob/master/screenshot/findall.png" width="350" title="Delete Rows">
   
   <img style=”display:block” src="https://github.com/amirjadhav/flutter-sqflite-database/blob/master/screenshot/queryspecific.png" width="350" title="Delete Rows">
 </p>
