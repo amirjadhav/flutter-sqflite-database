@@ -77,46 +77,58 @@ class _HomePageState extends State<HomePage> {
         title: Text("Flutter Database"),
       ),
       body: Padding(
-        padding: EdgeInsets.all(30),
+        padding: EdgeInsets.only(top: 30, left: 40, right: 40),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           mainAxisAlignment: MainAxisAlignment.start,
           children: [
             RaisedButton(
-              color: Colors.lightBlue,
-              elevation: 5.0,
+              shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(18.0)),
+              color: Colors.pink,
+              elevation: 15.0,
               onPressed: findAll,
               child: Text("Find all", style: textStyle),
             ),
             RaisedButton(
-              color: Colors.lightBlue,
-              elevation: 5.0,
+              shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(18.0)),
+              color: Colors.red[300],
+              elevation: 15.0,
               onPressed: querySpecific,
               child: Text("Query Specific", style: textStyle),
             ),
             RaisedButton(
-              color: Colors.lightBlue,
-              elevation: 5.0,
+              shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(18.0)),
+              color: Colors.deepOrange[300],
+              elevation: 15.0,
               onPressed: insertData,
               child: Text("Insert", style: textStyle),
             ),
             RaisedButton(
-              color: Colors.lightBlue,
-              elevation: 5.0,
+              shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(18.0)),
+              color: Colors.deepPurple[400],
+              elevation: 15.0,
               onPressed: updateQuery,
               child: Text("Update", style: textStyle),
             ),
             RaisedButton(
-              color: Colors.lightBlue,
-              elevation: 5.0,
+              shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(18.0)),
+              color: Colors.red[400],
+              elevation: 15.0,
               onPressed: deleteQuery,
               child: Text("Delete", style: textStyle),
             ),
             Padding(
               padding: const EdgeInsets.only(top: 18.0, bottom: 20),
               child: RaisedButton(
-                color: Colors.lightBlue,
-                elevation: 5.0,
+                shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(18.0)),
+                color: Colors.black45,
+                elevation: 15.0,
                 onPressed: () {
                   SystemNavigator.pop();
                 },
