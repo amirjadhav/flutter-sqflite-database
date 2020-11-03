@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'homepage.dart';
+import 'package:sqflite_flutter/ui/view/homepage/homepage_view.dart';
 
 void main() => runApp(MyApp());
 
